@@ -1,7 +1,7 @@
 Package: GeoMongo
 Type: Package
 Title: Geospatial Queries Using 'PyMongo'
-Version: 1.0.0
+Version: 1.0.1
 Date: 2017-08-07
 Author: Lampros Mouselimis <mouselimislampros@gmail.com>
 Maintainer: Lampros Mouselimis <mouselimislampros@gmail.com>
